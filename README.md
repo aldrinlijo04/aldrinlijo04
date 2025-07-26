@@ -1,23 +1,83 @@
+<h1 align="center">Hi 👋, I'm Aldrin Lijo</h1>
+<h3 align="center">🎓 Final Year Engineering Student | 🤖 AI/ML Enthusiast | 🛡️ Cybersecurity Explorer</h3>
 
-<h1 align="center">Hi 👋, I'm Aldrin lijo</h1>
-<h3 align="center">STUDENT</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aldrinlijo04&label=Profile%20views&color=0e75b6&style=flat" alt="aldrinlijo04" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aldrinlijo04" alt="aldrinlijo04" /></a> </p>
-
-- 📫 How to reach me **aldrinlijo04@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/aldrin-lijo-246979256/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bu98ec08iQ7OzQkWt15FR3Q%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aldrin lijo" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aldrin04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aldrin04" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aldrinlijo04&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aldrinlijo04&theme=algolia&margin-w=10" alt="GitHub Trophy" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aldrinlijo04&show_icons=true&locale=en&layout=compact" alt="aldrinlijo04" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aldrinlijo04&show_icons=true&locale=en" alt="aldrinlijo04" /></p>
+### 📬 Reach Me At
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aldrinlijo04&" alt="aldrinlijo04" /></p>
+<p align="left">
+  📧 **aldrinlijo04@gmail.com**  
+  <a href="https://www.linkedin.com/in/aldrin-lijo-246979256/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
+  </a>
+  <a href="https://www.codechef.com/users/aldrin04" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="30" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go" />
+</p>
+
+#### 💻 Frameworks & Libraries
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />
+</p>
+
+#### 🛢️ Databases & Cloud
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aldrinlijo04&show_icons=true&locale=en&theme=radical" alt="Aldrin's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldrinlijo04&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldrinlijo04&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🧠 Fun Fact
+
+> I've been to **15+ hackathons**, won **2**, and built a **Postpartum Depression Detection** app inspired by my mom's journey — a project that may not have won prizes, but it won hearts. ❤️
+
+---
+
