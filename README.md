@@ -16,7 +16,7 @@
 ### 📬 Reach Me At
 
 <p align="left">
-  📧 **aldrinlijo04@gmail.com**  
+  📧aldrinlijo04@gmail.com  
   <a href="https://www.linkedin.com/in/aldrin-lijo-246979256/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
   </a>
